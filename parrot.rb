@@ -1,6 +1,6 @@
-def parrot(name= "Squawk")# Create method `parrot` that outputs a 
+def parrot(nme)# Create method `parrot` that outputs a 
 end
-puts parrot
+puts parrot("Squawk!")
 
 
 #given phrase and
